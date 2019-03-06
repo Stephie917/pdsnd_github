@@ -1,15 +1,14 @@
-### Date created
-Include the date you created this project and README file.
+Date created - MARCH 1, 2019
 
-### Project Title
-Replace the Project Title
 
-### Description
-Describe what your project is about and what it does
+UDACITY CLASS PROJECT
 
-### Files used
-Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+THIS PROJECT IS DESIGNED TO TEST OUR KNOWLEDGE OF GIT/GITHUB
+
+THE FILES USED INCLUDE:
+BIKESHARE.PY
+
+CREDIT GIVEN TO:
+https://education.github.com/git-cheat-sheet-education.pdf (cheatsheet to help with git commands)
 
