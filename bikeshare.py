@@ -32,7 +32,7 @@ while True:
     day = get_user_input('Next, provide a day of the week!'\
                    ' to pick no month say \'all\'. \n(e.g. all, monday, sunday) \n>', DAYS)
 
-    print('-'*40)
+    print('-'*40)("You Picked!:", month)
     return city, month, day
 
 
