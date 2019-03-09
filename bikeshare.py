@@ -135,7 +135,7 @@ def user_stats(df):
     most_common_year = birth_year.value_counts().idxmax()
     print("The most common birth year:", most_common_year)
     most_recent = birth_year.max()
-    print("The most recent birth year:", most_recent)
+    print("We determined the most recent birth year to be:", most_recent)
     earliest_year = birth_year.min()
     print("The most earliest birth year:", earliest_year)
 
